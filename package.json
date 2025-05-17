@@ -1,0 +1,32 @@
+{
+  "name": "namaste_react",
+  "version": "1.0.0",
+  "description": "This is namaste react",
+  "default": "App.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranav1510/Namaste-React.git"
+  },
+  "author": "Pranav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pranav1510/Namaste-React/issues"
+  },
+  "homepage": "https://github.com/pranav1510/Namaste-React#readme",
+  "devDependencies": {
+    "parcel": "^2.14.4",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^3.4.17"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-router": "^7.5.3",
+    "react-router-dom": "^7.5.3"
+  }
+}
